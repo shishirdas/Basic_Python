@@ -1,13 +1,13 @@
 # Basic_Python program : 
 1. Variable & Number
 2. Variable:
-  i.data type of a variable with the type() function
+     i.data type of a variable with the type() function
   
-  ii.Each word starts with a capital letteruse the + operator to output multiple variable
+     ii.Each word starts with a capital letteruse the + operator to output multiple variable
   
-  iii.Python allows you to assign values to multiple variables in one line
+     iii.Python allows you to assign values to multiple variables in one line
   
-  iv.use the + operator to output multiple variable
+      iv.use the + operator to output multiple variable
   
 4. String:
   Exercise: String in Python
